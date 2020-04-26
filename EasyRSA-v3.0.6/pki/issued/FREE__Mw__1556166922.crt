@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            5a:81:8d:aa:68:3f:a3:57:39:2c:44:4e:80:1e:df:a9
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Lazarus CA
+        Validity
+            Not Before: Apr 25 04:35:21 2019 GMT
+            Not After : Apr  9 04:35:21 2022 GMT
+        Subject: CN=FREE__Mw__1556166922
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9e:cd:56:b1:36:3e:6b:3d:f8:1d:57:f8:ca:ab:
+                    56:53:19:f7:41:7c:12:70:f4:5d:65:8e:da:46:2e:
+                    bd:63:6d:16:a2:ad:55:ad:2f:73:22:be:6a:4d:c3:
+                    69:93:07:89:79:73:72:bf:f1:a2:d4:fa:00:2b:af:
+                    bc:53:e8:36:81:8e:27:33:0e:84:52:fa:8e:67:34:
+                    38:a1:b3:03:87:c4:db:8d:22:15:06:5c:a7:63:a0:
+                    b7:ad:11:61:79:16:cc:57:22:d1:5b:19:cc:a5:ab:
+                    00:be:0c:e5:59:c7:80:71:0c:bb:7f:f4:a7:83:68:
+                    36:7a:88:85:9e:6f:26:ca:3e:5c:50:ce:3c:07:ad:
+                    c5:28:c2:9d:3c:2b:36:54:c9:74:f7:d6:08:b2:2c:
+                    12:ed:e5:c7:cb:1e:2c:ce:7a:af:29:0c:d8:53:c8:
+                    da:e6:84:06:9f:cc:95:5c:9b:e6:81:21:27:75:3f:
+                    a1:dd:33:5c:d3:5b:ae:21:80:49:ac:59:e4:3a:e8:
+                    07:31:27:05:c1:f6:3b:41:13:78:84:8d:b3:27:30:
+                    2b:c5:97:45:f2:9c:af:b0:e4:54:ee:7d:9d:94:81:
+                    bc:64:0d:b3:f4:10:32:1d:bf:7c:22:9e:80:be:c0:
+                    ac:17:fa:4d:fe:32:67:76:c8:9e:e2:bf:ca:c5:49:
+                    35:3b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                DB:DD:C5:A6:59:46:0A:77:C4:BC:9E:DB:A0:B0:82:A8:E7:98:61:D5
+            X509v3 Authority Key Identifier: 
+                keyid:19:7F:95:3A:F6:68:62:0C:BF:9D:9E:DE:4E:05:9F:71:90:2B:AA:5A
+                DirName:/CN=Lazarus CA
+                serial:EA:FF:0E:64:F6:67:9F:E9
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         20:2e:85:7f:8a:74:b0:6d:34:9d:b6:00:67:08:ff:fd:86:6b:
+         78:f6:c3:1c:d9:27:e2:95:24:f4:3b:10:51:d1:76:64:ff:ce:
+         76:64:1c:28:c7:79:5d:59:ce:ea:6e:8a:f1:27:5a:6c:c9:ec:
+         56:b9:6a:b2:2d:67:8c:4c:01:03:da:64:a8:c1:ae:f0:9c:2c:
+         8f:3f:dd:cd:3f:71:fd:47:0e:90:8e:60:c6:94:ee:a9:ca:c3:
+         14:07:59:ec:48:76:35:aa:66:83:8a:d3:66:c7:ef:1e:67:55:
+         fc:d5:18:31:95:ba:5b:c7:8f:bb:62:7d:71:f6:ac:d3:53:65:
+         bf:61:ae:59:8d:ab:3d:d1:34:f4:cd:86:08:f1:3f:77:41:d8:
+         75:4c:96:b7:8a:71:c1:92:7e:10:0b:39:9c:72:52:39:b2:03:
+         94:e1:93:14:97:4e:3c:16:6b:30:50:c5:9b:95:45:d2:37:68:
+         ea:e4:1a:54:d5:fc:12:ab:c2:b6:4a:f4:de:0d:68:9a:74:2a:
+         57:2b:6f:14:82:a6:ef:45:d2:66:c2:ee:19:c2:51:5e:2e:fd:
+         76:67:92:16:ad:dd:8d:10:75:c4:9f:cd:8d:22:f0:91:91:36:
+         84:41:f9:ad:3c:60:14:d6:75:b5:10:c1:0b:c0:63:bf:15:86:
+         74:50:91:c9
+-----BEGIN CERTIFICATE-----
+MIIDVTCCAj2gAwIBAgIQWoGNqmg/o1c5LEROgB7fqTANBgkqhkiG9w0BAQsFADAV
+MRMwEQYDVQQDDApMYXphcnVzIENBMB4XDTE5MDQyNTA0MzUyMVoXDTIyMDQwOTA0
+MzUyMVowHzEdMBsGA1UEAwwURlJFRV9fTXdfXzE1NTYxNjY5MjIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCezVaxNj5rPfgdV/jKq1ZTGfdBfBJw9F1l
+jtpGLr1jbRairVWtL3MivmpNw2mTB4l5c3K/8aLU+gArr7xT6DaBjiczDoRS+o5n
+NDihswOHxNuNIhUGXKdjoLetEWF5FsxXItFbGcylqwC+DOVZx4BxDLt/9KeDaDZ6
+iIWebybKPlxQzjwHrcUowp08KzZUyXT31giyLBLt5cfLHizOeq8pDNhTyNrmhAaf
+zJVcm+aBISd1P6HdM1zTW64hgEmsWeQ66AcxJwXB9jtBE3iEjbMnMCvFl0XynK+w
+5FTufZ2UgbxkDbP0EDIdv3winoC+wKwX+k3+Mmd2yJ7iv8rFSTU7AgMBAAGjgZYw
+gZMwCQYDVR0TBAIwADAdBgNVHQ4EFgQU293FpllGCnfEvJ7boLCCqOeYYdUwRQYD
+VR0jBD4wPIAUGX+VOvZoYgy/nZ7eTgWfcZArqlqhGaQXMBUxEzARBgNVBAMMCkxh
+emFydXMgQ0GCCQDq/w5k9mef6TATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8E
+BAMCB4AwDQYJKoZIhvcNAQELBQADggEBACAuhX+KdLBtNJ22AGcI//2Ga3j2wxzZ
+J+KVJPQ7EFHRdmT/znZkHCjHeV1ZzupuivEnWmzJ7Fa5arItZ4xMAQPaZKjBrvCc
+LI8/3c0/cf1HDpCOYMaU7qnKwxQHWexIdjWqZoOK02bH7x5nVfzVGDGVulvHj7ti
+fXH2rNNTZb9hrlmNqz3RNPTNhgjxP3dB2HVMlreKccGSfhALOZxyUjmyA5ThkxSX
+TjwWazBQxZuVRdI3aOrkGlTV/BKrwrZK9N4NaJp0KlcrbxSCpu9F0mbC7hnCUV4u
+/XZnkhat3Y0QdcSfzY0i8JGRNoRB+a08YBTWdbUQwQvAY78VhnRQkck=
+-----END CERTIFICATE-----
